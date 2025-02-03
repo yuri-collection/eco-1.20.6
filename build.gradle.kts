@@ -65,7 +65,7 @@ allprojects {
         maven("https://repo.extendedclip.com/content/repositories/placeholderapi/")
 
         // ProtocolLib
-        //maven("https://repo.dmulloy2.net/nexus/repository/public/")
+        maven("https://repo.dmulloy2.net/nexus/repository/public/")
 
         // WorldGuard
         maven("https://maven.enginehub.org/repo/")
