@@ -65,7 +65,7 @@ allprojects {
         maven("https://repo.extendedclip.com/releases/")
 
         // ProtocolLib
-        maven("https://repo.dmulloy2.net/nexus/repository/public/")
+        maven("https://repo.dmulloy2.net/repository/public/")
 
         // WorldGuard
         maven("https://maven.enginehub.org/repo/")
@@ -77,7 +77,7 @@ allprojects {
         maven("https://repo.md-5.net/content/repositories/snapshots/")
 
         // CombatLogX
-        maven("https://nexus.sirblobman.xyz/repository/public/")
+        maven("https://nexus.sirblobman.xyz/public/")
 
         // MythicMobs
         maven("https://mvn.lumine.io/repository/maven-public/")
