@@ -62,7 +62,7 @@ allprojects {
         maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
 
         // PlaceholderAPI
-        maven("https://repo.extendedclip.com/content/repositories/placeholderapi/")
+        maven("https://repo.extendedclip.com/releases/")
 
         // ProtocolLib
         maven("https://repo.dmulloy2.net/nexus/repository/public/")
